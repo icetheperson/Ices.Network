@@ -5,7 +5,7 @@
 ### 🔥 This mod puts you into Private Servers so you can play in Modded Lobbies. Have fun using all kinds of mods without the fear of getting Banned!
 ------------------------------------------------------------------------------------------
 ### ⬇️ Installation Tutorial:
-### Coming Soon
+### Put in the DLL as a normal mod for bepinex (in plugins folder).
 ------------------------------------------------------------------------------------------
 ### ➕ Support the Creator by joining the Discord:
 # https://discord.gg/xHrsf6fMuM
